@@ -98,7 +98,7 @@ input[type=submit]:hover {
 
 .container .btn {
     position: absolute;
-    top: 85%;
+    top: 80%;
     left: 45%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%,-50%);
